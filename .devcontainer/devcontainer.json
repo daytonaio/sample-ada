@@ -2,6 +2,14 @@
     "name": "Ada Development",
     "build": {
         "dockerfile": "Dockerfile"
-    }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "AdaCore.ada",
+                "ms-vscode.cpptools"
+            ]
+        }
+    },
     //"remoteUser": "daytona"
 }
