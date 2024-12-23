@@ -1,0 +1,7 @@
+{
+    "name": "Ada Development",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+    //"remoteUser": "daytona"
+}
