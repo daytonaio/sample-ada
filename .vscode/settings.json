@@ -1,0 +1,6 @@
+{
+    "ada.projectFile": "hello_world.gpr",
+    "extensions.ignoreRecommendations": false,
+    "extensions.autoUpdate": true,
+    "extensions.autoCheckUpdates": true
+}
